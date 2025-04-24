@@ -312,7 +312,7 @@ YOGESHVAR M
 
 ## Output screen shots of proteus  :
 
-![234210001-fa3749c9-97dc-4343-85cc-9474e0d59961](https://github.com/Yogeshvar005/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497367/9fc9c377-480f-479e-89e5-479790ec4f70)
+![image](https://github.com/user-attachments/assets/6f6f9349-7bfb-4e34-9b40-28d4e587c4ae)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
